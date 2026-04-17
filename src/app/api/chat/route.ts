@@ -17,7 +17,7 @@ const SYSTEM_PROMPT = `أنت مساعد ذكي لمنصة "أثر" للتبرع
 - التحقق PayPal: Transaction ID أو PayPal.me
 - أنواع الحسابات: متبرع، مؤسسة، مستفيد
 - السحب: من لوحة التحكم عبر USDT أو PayPal، معالجة 24-48 ساعة
-- التواصل: info@athar.ps | +970567972555`;
+- التواصل: lithi.palistin@gmail.com | +970567972555`;
 
 const FALLBACKS: [string, string][] = [
   ["سحب", "لسحب الأموال: لوحة التحكم ← طلبات السحب، اختر USDT أو PayPal وأدخل عنوانك. تتم المعالجة خلال 24-48 ساعة."],

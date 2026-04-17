@@ -273,7 +273,7 @@ export default function CampaignDetailPage() {
                           🔐 USDT TRC20
                         </TabsTrigger>
                         <TabsTrigger value="paypal" className="gap-2 text-xs">
-                          💳 PayPal
+                          💳 PayPal موقوف مؤقتا
                         </TabsTrigger>
                       </TabsList>
 
